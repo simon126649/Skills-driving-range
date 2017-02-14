@@ -47,6 +47,7 @@
 4. marklodato： [图解教程](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
 5. zrong：[Git查看、删除、重命名远程分支和tag](http://zengrong.net/post/1746.htm)
 6. codeschool：[关于git的四个教程](https://www.codeschool.com/search?utf8=%E2%9C%93&loc=hero&query=git)
+7. LWXYFER：[git与github之降龙十八掌](https://segmentfault.com/a/1190000005596543)
 
 ### 3.2 问题和疑问 ###
 请将学习过程中碰到的问题梳理清楚，记录如下：
