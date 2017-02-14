@@ -29,19 +29,30 @@
 7. [从0开始学习 GITHUB 系列之「GITHUB 常见的几种操作」](http://stormzhang.com/github/2016/09/21/learn-github-from-zero8/) 
 8. [从0开始学习 GITHUB 系列之「如何发现优秀的开源项目？」](http://stormzhang.com/github/2016/07/28/learn-github-from-zero7/)
 9. [高手进阶-GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
-10. 
 
 #### Master02——柴神 ####
 1. [【Github教程】史上最全github使用方法：github入门到精通之一](http://blog.csdn.net/chaishen10000/article/details/52444384)
 2. [【Github教程】史上最全github使用方法：github入门到精通之二](http://blog.csdn.net/chaishen10000/article/details/52444421)
 3. [【Github教程】史上最全github使用方法：github入门到精通之三](http://blog.csdn.net/chaishen10000/article/details/52451273)
 
+#### Master03——廖雪峰 ####
+
+1. [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+#### 其他教程 ####
+
+1. 烟火里的尘埃：[ 如何使用GitBook](http://www.jianshu.com/p/11d5ca7c239b)
+2. 阮一峰：[Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+3. 罗杰·杜德勒 ：[git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+4. marklodato： [图解教程](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+5. zrong：[Git查看、删除、重命名远程分支和tag](http://zengrong.net/post/1746.htm)
+6. codeschool：[关于git的四个教程](https://www.codeschool.com/search?utf8=%E2%9C%93&loc=hero&query=git)
+
 ### 3.2 问题和疑问 ###
 请将学习过程中碰到的问题梳理清楚，记录如下：
 
 1. 怎样批量阅读指定人的评论commits？
 2. 如何克隆别人现成的内隐知识：习惯？知识？代码？
-3. 
 
 
 ### 3.3 回顾和收获 ###
